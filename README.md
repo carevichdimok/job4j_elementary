@@ -1,6 +1,7 @@
 # job4j
 Разбор первой программы. [#159033 #210561]
 ![Image of firstprogramm](https://github.com/carevichdimok/job4j_elementary/blob/master/src/images/firstprogramm.png)
+![Image of multiple](https://github.com/carevichdimok/job4j_elementary/blob/master/src/images/multiple.png)
 Фиксация изменений на github [#243564 #210456]
 ![Image of job4 fix1](https://github.com/carevichdimok/job4j_elementary/blob/master/src/images/job4%20fix1.png)
 Checkstyle [#4123 #210590]
