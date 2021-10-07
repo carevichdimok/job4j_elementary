@@ -8,6 +8,8 @@ Checkstyle [#4123 #210590]
 ![Image of job4 checkstyle](https://github.com/carevichdimok/job4j_elementary/blob/master/src/images/job4%20checkstyle.png)
 Загрузка файлов на github [#243562 #210451]
 ![Image of uploadings files](https://github.com/carevichdimok/job4j_elementary/blob/master/src/images/uploadings%20files.png)
+Арифметические операции. [#185]
+![Image of uploadings files](https://github.com/carevichdimok/job4j_elementary/blob/master/src/images/calculator.png)
 ВАЖНО! Этот файл предназначен к использованию исключительно в целях прохождения курса и не представляет собой общепринятый оформленный документ!
 
 О проекте. Учусь использовать инструмент сборки Maven. Пишу модульные тесты и оформляю свой код, так как это делают профессионалы. Знакомлюсь с базовыми принципами построения программы через объектно-ориентированный подход. Учусь использовать Java Collections Frameworks;
