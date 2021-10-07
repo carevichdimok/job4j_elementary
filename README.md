@@ -14,6 +14,8 @@ Checkstyle [#4123 #210590]
 ![Image of uploadings files](https://github.com/carevichdimok/job4j_elementary/blob/master/src/images/argmethod.png)
 Результат работы метода [#232622]
 ![Image of uploadings files](https://github.com/carevichdimok/job4j_elementary/blob/master/src/images/result.png)
+Конвертер валюты [#41583]
+![Image of uploadings files](https://github.com/carevichdimok/job4j_elementary/blob/master/src/images/converter.png)
 ВАЖНО! Этот файл предназначен к использованию исключительно в целях прохождения курса и не представляет собой общепринятый оформленный документ!
 
 О проекте. Учусь использовать инструмент сборки Maven. Пишу модульные тесты и оформляю свой код, так как это делают профессионалы. Знакомлюсь с базовыми принципами построения программы через объектно-ориентированный подход. Учусь использовать Java Collections Frameworks;
