@@ -16,6 +16,8 @@ Checkstyle [#4123 #210590]
 ![Image of uploadings files](https://github.com/carevichdimok/job4j_elementary/blob/master/src/images/result.png)
 Конвертер валюты [#41583]
 ![Image of uploadings files](https://github.com/carevichdimok/job4j_elementary/blob/master/src/images/converter.png)
+Площадь треугольника. [#175474]
+![Image of uploadings files](https://github.com/carevichdimok/job4j_elementary/blob/master/src/images/trqarea.png)
 Идеальный вес [#41584]
 ![Image of uploadings files](https://github.com/carevichdimok/job4j_elementary/blob/master/src/images/fit.png)
 Расстояние между точками в системе координат [#188 #217445]
